@@ -1,7 +1,3 @@
-# git-test
-Hey hello its Arifin
-and welcome to my github
-
 # Git Hub Cheat Sheet
 
 Cheatsheet
